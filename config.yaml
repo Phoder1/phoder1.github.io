@@ -1,7 +1,7 @@
 baseURL: https://phoder1.github.io/
 
 languageCode: en-us
-title: "John's Blog"
+title: "Alon Talmi"
 theme: "toha"
 
 # Manage languages
@@ -36,7 +36,7 @@ outputs:
     - JSON
 
 # Enable Google Analytics
-googleAnalytics: UA-122321624-2
+#googleAnalytics: UA-122321624-2
 
 # Enable global emoji support
 enableEmoji: true
