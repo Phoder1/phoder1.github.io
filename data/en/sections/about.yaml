@@ -39,10 +39,6 @@ socialLinks:
 - name: Steam
   icon: "fab fa-steam"
   url: "https://steamcommunity.com/id/Phoder1/"
-  
-- name: Discord
-  icon: "fab fa-discord"
-  url: "Phoder1#5212"
 
 - name: Whatsapp
   icon: "fab fa-whatsapp"
