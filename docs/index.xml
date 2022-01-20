@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Alon Talmi</title>
+    <title>Alon Talmi&#39;s Portfolio</title>
     <link>https://phoder1.github.io/</link>
-    <description>Recent content on Alon Talmi</description>
+    <description>Recent content on Alon Talmi&#39;s Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 08 Jun 2020 08:06:25 +0600</lastBuildDate><atom:link href="https://phoder1.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Introduction</title>
+      <title>Go পরিচিতি</title>
       <link>https://phoder1.github.io/notes/go/basic/introduction/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -16,12 +16,30 @@
       <description>Hello WorldA sample go program is show here.
 package main import &amp;#34;fmt&amp;#34; func main() { message := greetMe(&amp;#34;world&amp;#34;) fmt.Println(message) } func greetMe(name string) string { return &amp;#34;Hello, &amp;#34; + name + &amp;#34;!&amp;#34; } Run the program as below:
 $ go run hello.go VariablesNormal Declaration:
-var msg string msg = &amp;#34;Hello&amp;#34; Shortcut:
-msg := &amp;#34;Hello&amp;#34; Constantsconst Phi = 1.</description>
+var msg string msg = &amp;#34;Hello&amp;#34; Shortcut:
+msg := &amp;#34;Hello&amp;#34; Constantsconst Phi = 1.618 </description>
     </item>
     
     <item>
-      <title>Basic Types</title>
+      <title>Go বেসিক</title>
+      <link>https://phoder1.github.io/notes/go/basic/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://phoder1.github.io/notes/go/basic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>অ্যাডভান্সড</title>
+      <link>https://phoder1.github.io/notes/go/advanced/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://phoder1.github.io/notes/go/advanced/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>বেসিক টাইপ সমূহ</title>
       <link>https://phoder1.github.io/notes/go/basic/types/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -42,7 +60,7 @@ var u uint = 7 // uint (unsigned) var p float32 = 22.7 // 32-bit float Array
     </item>
     
     <item>
-      <title>File Manipulation</title>
+      <title>ফাইল ম্যানিপুলেশন</title>
       <link>https://phoder1.github.io/notes/go/advanced/files/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -51,7 +69,7 @@ var u uint = 7 // uint (unsigned) var p float32 = 22.7 // 32-bit float Array
     </item>
     
     <item>
-      <title>Bash Variables</title>
+      <title>ব্যাশ ভেরিয়েবল</title>
       <link>https://phoder1.github.io/notes/bash/basic/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -359,47 +377,117 @@ Initial setup Search depends on additional output content type of JSON in config
     </item>
     
     <item>
-      <title>Introduction</title>
-      <link>https://phoder1.github.io/posts/introduction/</link>
-      <pubDate>Mon, 08 Jun 2020 08:06:25 +0600</pubDate>
+      <title>অনুসন্ধানের ফলাফল</title>
+      <link>https://phoder1.github.io/search/</link>
+      <pubDate>Tue, 08 Jun 2010 08:06:25 +0600</pubDate>
       
-      <guid>https://phoder1.github.io/posts/introduction/</guid>
-      <description>Greeting! This is an introduction post. This post tests the followings:
- Hero image is in the same directory as the post. This post should be at top of the sidebar. Post author should be the same as specified in author.yaml file.  </description>
+      <guid>https://phoder1.github.io/search/</guid>
+      <description>This file exists solely to respond to /search URL with the related search layout template.
+No content shown here is rendered, all content is based in the template layouts/page/search.html
+Setting a very low sitemap priority will tell search engines this is not important content.
+This implementation uses Fusejs, jquery and mark.js
+Initial setup Search depends on additional output content type of JSON in config.toml ``` [outputs] home = [&amp;ldquo;HTML&amp;rdquo;, &amp;ldquo;JSON&amp;rdquo;] ```</description>
     </item>
     
     <item>
-      <title>Markdown Samples</title>
+      <title>অনুসন্ধানের ফলাফল</title>
+      <link>https://phoder1.github.io/search/</link>
+      <pubDate>Tue, 08 Jun 2010 08:06:25 +0600</pubDate>
+      
+      <guid>https://phoder1.github.io/search/</guid>
+      <description>This file exists solely to respond to /search URL with the related search layout template.
+No content shown here is rendered, all content is based in the template layouts/page/search.html
+Setting a very low sitemap priority will tell search engines this is not important content.
+This implementation uses Fusejs, jquery and mark.js
+Initial setup Search depends on additional output content type of JSON in config.toml ``` [outputs] home = [&amp;ldquo;HTML&amp;rdquo;, &amp;ldquo;JSON&amp;rdquo;] ```</description>
+    </item>
+    
+    <item>
+      <title>Markdown এর নমুনা</title>
       <link>https://phoder1.github.io/posts/markdown-sample/</link>
       <pubDate>Mon, 08 Jun 2020 08:06:25 +0600</pubDate>
       
       <guid>https://phoder1.github.io/posts/markdown-sample/</guid>
-      <description>This is a sample post intended to test the followings:
- A different post author. Table of contents. Markdown content rendering. Math rendering. Emoji rendering.   Markdown Syntax Rendering Headings The following HTML &amp;lt;h1&amp;gt;—&amp;lt;h6&amp;gt; elements represent six levels of section headings. &amp;lt;h1&amp;gt; is the highest section level while &amp;lt;h6&amp;gt; is the lowest.
+      <description>এই নমুনা পোস্টটি এই বিষয়গুলো পরীক্ষা করার জন্যে করা হয়েছেঃ
+ একজন ভিন্ন পোস্ট লেখক। সূচীপত্র। Markdown কন্টেন্ট রেন্ডারিং। গণিত রেন্ডারিং। ইমোজি রেন্ডারিং।   Markdown Syntax Rendering Headings The following HTML &amp;lt;h1&amp;gt;—&amp;lt;h6&amp;gt; elements represent six levels of section headings. &amp;lt;h1&amp;gt; is the highest section level while &amp;lt;h6&amp;gt; is the lowest.
 H1 H2 H3 H4 H5 H6 Paragraph Xerum, quo qui aut unt expliquam qui dolut labo. Aque venitatiusda cum, voluptionse latur sitiae dolessi aut parist aut dollo enim qui voluptate ma dolestendit peritin re plis aut quas inctum laceat est volestemque commosa as cus endigna tectur, offic to cor sequas etum rerum idem sintibus eiur?</description>
     </item>
     
     <item>
-      <title>Rich Content</title>
-      <link>https://phoder1.github.io/posts/category/sub-category/rich-content/</link>
+      <title>Sub-Category</title>
+      <link>https://phoder1.github.io/posts/category/sub-category/</link>
       <pubDate>Mon, 08 Jun 2020 08:06:25 +0600</pubDate>
       
-      <guid>https://phoder1.github.io/posts/category/sub-category/rich-content/</guid>
-      <description>This sample post tests the followings:
- Category, sub-category nesting in the sidebar. Hero image and other images are in images folder inside this post directory. Different media rendering like image, tweet, YouTube video, Vimeo video etc.  Image Sample  Tweet Sample “In addition to being more logical, asymmetry has the advantage that its complete appearance is far more optically effective than symmetry.”
-— Jan Tschichold pic.twitter.com/gcv7SrhvJb
-&amp;mdash; Graphic Design History (@DesignReviewed) January 17, 2019   YouTube Video Sample    Vimeo Video Sample   </description>
+      <guid>https://phoder1.github.io/posts/category/sub-category/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>Shortcodes Samples</title>
+      <title>Top Category Sample</title>
+      <link>https://phoder1.github.io/posts/category/</link>
+      <pubDate>Mon, 08 Jun 2020 08:06:25 +0600</pubDate>
+      
+      <guid>https://phoder1.github.io/posts/category/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>পোস্ট সমূহ</title>
+      <link>https://phoder1.github.io/posts/</link>
+      <pubDate>Mon, 08 Jun 2020 08:06:25 +0600</pubDate>
+      
+      <guid>https://phoder1.github.io/posts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ভূমিকা</title>
+      <link>https://phoder1.github.io/posts/introduction/</link>
+      <pubDate>Mon, 08 Jun 2020 08:06:25 +0600</pubDate>
+      
+      <guid>https://phoder1.github.io/posts/introduction/</guid>
+      <description>স্বাগতম! এটি একটি ভূমিকা সূচক পোস্ট। এই পোস্টটি এই বিষয়গুলো পরীক্ষা করার জন্যে করা হয়েছেঃ
+ হেরো ছবিটি পোস্ট এর সাথে একই পথে আছে। এই পোস্টটি সাইডবারের সবার প্রথমে থাকা উচিত। পোস্টের লেখক author.yaml ফাইল এ যাকে উল্লেখ করা হয়েছে তিনিই থাকবেন।  </description>
+    </item>
+    
+    <item>
+      <title>শর্টকোডের  নমুনা</title>
       <link>https://phoder1.github.io/posts/shortcodes/</link>
       <pubDate>Mon, 08 Jun 2020 08:06:25 +0600</pubDate>
       
       <guid>https://phoder1.github.io/posts/shortcodes/</guid>
-      <description>This is a sample post intended to test the followings:
- Default hero image. Different shortcodes.  Alert The following alerts are available in this theme.
-This is sample alert with type=&amp;quot;success&amp;quot;.This is sample alert with type=&amp;quot;danger&amp;quot;.This is sample alert with type=&amp;quot;warning&amp;quot;.This is sample alert with type=&amp;quot;info&amp;quot;.This is sample alert with type=&amp;quot;dark&amp;quot;.This is sample alert with type=&amp;quot;primary&amp;quot;.This is sample alert with type=&amp;quot;secondary&amp;quot;.</description>
+      <description>এই নমুনা পোস্টটি এই বিষয়গুলো পরীক্ষা করার জন্যে করা হয়েছেঃ
+ ডিফল্ট হিরো ইমেজ। বিভিন্ন শর্টকোড।  এলার্ট এই থিমের মধ্যে এই সকল এলার্ট রয়েছেঃ
+এটা type=&amp;quot;success&amp;quot; দিয়ে নমুনা এলার্ট।এটা type=&amp;quot;danger&amp;quot; দিয়ে নমুনা এলার্ট।এটা type=&amp;quot;warning&amp;quot; দিয়ে নমুনা এলার্ট।এটা type=&amp;quot;info&amp;quot; দিয়ে নমুনা এলার্ট।এটা type=&amp;quot;dark&amp;quot; দিয়ে নমুনা এলার্ট।এটা type=&amp;quot;primary&amp;quot; দিয়ে নমুনা এলার্ট।এটা type=&amp;quot;secondary&amp;quot; দিয়ে নমুনা এলার্ট।ছবি কোন ধরনের attribute ছাড়া ছবির একটি নমুনা।  height এবং width attribute সহ ছবির একটি নমুনা।  height এবং width attribute সহ মাঝখানে স্তাপিত ছবির একটি নমুনা।  float attribute সহ ছবির একটি নমুনা। Lorem ipsum dolor sit amet, consectetur adipiscing elit.</description>
+    </item>
+    
+    <item>
+      <title>সমৃদ্ধ কন্টেন্ট</title>
+      <link>https://phoder1.github.io/posts/category/sub-category/rich-content/</link>
+      <pubDate>Mon, 08 Jun 2020 08:06:25 +0600</pubDate>
+      
+      <guid>https://phoder1.github.io/posts/category/sub-category/rich-content/</guid>
+      <description>এই নমুনা পোস্টটি এই বিষয়গুলো পরীক্ষা করার জন্যে করা হয়েছেঃ
+ বিভাগ, উপ-বিভাগে সাইডবারে একটির ভেতর আরেকটি কিভাবে আছে সেটা দেখা। হেরো ছবিটি পোস্ট যে পথে আছে সে পথে images ফোল্ডার এ থাকবে। বিভিন্ন মিডিয়া যেমন ছবি, টুইট, ইউটিউব ভিডিও, ভীমেও ভিডিও ইত্যাদি রেন্ডারিং।  ছবির নমুনা  টুইটের নুমুনা {{/&amp;lt; twitter 1085870671291310081 &amp;gt;/}}
+ ইউটিওবের ভিডিও নমুনা    ভীমেও ভিডিও নমুনা   </description>
+    </item>
+    
+    <item>
+      <title>নোট সমূহ</title>
+      <link>https://phoder1.github.io/notes/</link>
+      <pubDate>Tue, 08 Jun 2010 08:06:25 +0600</pubDate>
+      
+      <guid>https://phoder1.github.io/notes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Go এর নোট সমূহ</title>
+      <link>https://phoder1.github.io/notes/go/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://phoder1.github.io/notes/go/</guid>
+      <description>Go Notes </description>
     </item>
     
     <item>
@@ -413,6 +501,15 @@ No content shown here is rendered, all content is based in the template layouts/
 Setting a very low sitemap priority will tell search engines this is not important content.
 This implementation uses Fusejs, jquery and mark.js
 Initial setup Search depends on additional output content type of JSON in config.toml ``` [outputs] home = [&amp;ldquo;HTML&amp;rdquo;, &amp;ldquo;JSON&amp;rdquo;] ```</description>
+    </item>
+    
+    <item>
+      <title>ব্যাশের নোট সমূহ</title>
+      <link>https://phoder1.github.io/notes/bash/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://phoder1.github.io/notes/bash/</guid>
+      <description>Bash Notes </description>
     </item>
     
   </channel>
