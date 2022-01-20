@@ -35,6 +35,10 @@ socialLinks:
 - name: LinkedIn
   icon: "fab fa-linkedin"
   url: "https://www.linkedin.com/in/alon-talmi/"
+  
+- name: Steam
+  icon: "fab fa-steam"
+  url: "https://steamcommunity.com/id/Phoder1/"
 
 # Show your badges
 # You can show your verifiable certificates from https://www.credly.com.
