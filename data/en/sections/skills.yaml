@@ -6,7 +6,7 @@ section:
   weight: 5
   showOnNavbar: false
   # Can optionally hide the title in sections
-  hideTitle: true
+  hideTitle: false
 
 # Your Skills.
 # Give a summary of you each skill in the summary section.

@@ -39,6 +39,18 @@ socialLinks:
 - name: Steam
   icon: "fab fa-steam"
   url: "https://steamcommunity.com/id/Phoder1/"
+  
+- name: Discord
+  icon: "fab fa-discord"
+  url: "Phoder1#5212"
+
+- name: Whatsapp
+  icon: "fab fa-whatsapp"
+  url: "https://wa.me/972549252682"
+ 
+- name: Facebook
+  icon: "fab fa-facebook-square"
+  url: "facebook.com/Alon.Talmi.fb"
 
 # Show your badges
 # You can show your verifiable certificates from https://www.credly.com.

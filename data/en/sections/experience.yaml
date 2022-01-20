@@ -1,0 +1,67 @@
+# section information
+section:
+  name: Experience
+  id: experiences
+  enable: true
+  weight: 2
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true 
+
+# Your experiences
+experiences:
+- company:
+    name: SuperSky Games
+    url: "https://supersky.games/"
+    location: Yagur
+    # company overview
+    overview: SuperSky Games is a studio currently developing the NFT, mobile, battle arena game - Summoners Royale
+  positions:
+  - designation: Unity Developer
+    start: January 22
+    # don't provide end date if you are currently working there. It will be replaced by "Present"
+    # end: Dec 2020
+    # give some points about what was your responsibilities at the company.
+    responsibilities:
+    - Designed and developed new game features in C#
+    - Integrated NFT assets into the game
+    - Supported in game design decisions
+
+- company:
+    name: ReadySteady Games
+    url: "https://readysteady.games/"
+    location: Yagur
+    overview: ReadySteady Games is a small indie studio which currently developes it's first title [Phantom Beasts Redemption](https://store.steampowered.com/app/1483000/Phantom_Beasts__Redemption/)
+  positions:
+  - designation: Junior Unity Developer
+    start: April 21
+    end: January 22
+    responsibilities:
+    - Was one of the 3 main developers of the game
+    - Designed and developed main features of the game
+    - Supported in game design decisions
+
+- company:
+    name: Omwise
+    url: "https://www.facebook.com/omwise.arce/"
+    location: Acre
+    overview: Omwise systems inc. is a electronics engineering company, which mostly cater to the millitary sector.
+  positions:
+  - designation: Electronics technitian
+    start: 2018
+    end: 2019
+    responsibilities:
+    - Assembled advanced electronic equipment for millitary companies (Refael, Elbit, etc')
+    - In charge of QA on newly assembled equipment
+    
+- company:
+    name: IDF's Air Force
+    #url: "https://www.example.com"
+    location: Ramon Base (Mitzpe Ramon)
+    #overview: Intern counting Company (ICC) is responsible for counting worldwide intern Engineers.
+  positions:
+  - designation: F15 Avionics engineer
+    start: 2015
+    end: 2018
+    responsibilities:
+    - In charge of fixing, checking and maintaining critical electronics equipment on the F15
