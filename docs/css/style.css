@@ -1,23 +1,4 @@
 /* This is empty CSS file intended to be overwritten by user's custom CSS file */
-<!--================= custom style overrides =========================-->
-.home {
-  height: 100vh;
-  padding: 0;
-  margin: 0;
-  color: #f9fafc;
-  overflow: hidden;
-}
-
-.background {
-  height: 100%;
-  width: 100%;
-  padding: 0;
-  margin: 0;
-  background-attachment: fixed;
-  background-position: center;
-  transform: scale(1.1);
-  background-size: cover;
-}
 
 /* ============= Device specific fixes ======= */
 
