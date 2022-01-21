@@ -15,23 +15,21 @@ experiences:
     url: "https://supersky.games/"
     location: Yagur
     # company overview
-    overview: SuperSky Games is a indie studio currently developing the NFT, mobile, battle arena game - Summoners Royale. SuperSky was split from ReadySteady Games, which currently develops [Phantom Beasts Redemption](https://store.steampowered.com/app/1483000/Phantom_Beasts__Redemption/)
+    overview: SuperSky Games is a indie studio currently developing the NFT, mobile, battle arena game - Summoners Royale. SuperSky was split from [ReadySteady Games]("https://readysteady.games/"), which currently develops [Phantom Beasts Redemption](https://store.steampowered.com/app/1483000/Phantom_Beasts__Redemption/).
   positions:
-  - designation: Unity Developer
+  - designation: Unity Developer on Summoners Royale
     start: January 22
     # don't provide end date if you are currently working there. It will be replaced by "Present"
     # end: Dec 2020
     # give some points about what was your responsibilities at the company.
     responsibilities:
-    - Working as a developer on Summoners Royale
     - Designed and developed new game features in C#
     - Integrated NFT assets into the game
     - Supported in game design decisions
-  - designation: Junior Unity Developer
+  - designation: Junior Unity Developer on Phantom Beasts
     start: April 21
     end: January 22
     responsibilities:
-    - Worked as a developer on Phantom Beasts
     - Was one of the 3 main developers
     - Designed and developed main features
     - Supported in game design decisions
