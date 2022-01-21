@@ -12,8 +12,8 @@ description: Portfolio and CV of Alon Talmi.
 # specify the list of custom menus that you want to show in the top navbar.
 # they will be separated by a divider from the main menus.
 customMenus:
-- name: Steam Curator
-  url: https://store.steampowered.com/curator/38999910/
+#- name: Steam Curator
+#  url: https://store.steampowered.com/curator/38999910/
 #- name: Summoners Royale
 
 # Specify OpenGraph Headers

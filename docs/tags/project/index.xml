@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Project on Alon Talmi&#39;s Portfolio</title>
+    <link>https://phoder1.github.io/tags/project/</link>
+    <description>Recent content in Project on Alon Talmi&#39;s Portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 08 Jun 2020 08:06:25 +0600</lastBuildDate><atom:link href="https://phoder1.github.io/tags/project/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Phantom Beasts: Redemption</title>
+      <link>https://phoder1.github.io/posts/professional/phantombeasts/</link>
+      <pubDate>Mon, 08 Jun 2020 08:06:25 +0600</pubDate>
+      
+      <guid>https://phoder1.github.io/posts/professional/phantombeasts/</guid>
+      <description> Phantom Beasts is a 2.5D shooter game  Trailer   </description>
+    </item>
+    
+  </channel>
+</rss>

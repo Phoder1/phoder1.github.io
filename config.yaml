@@ -66,16 +66,16 @@ params:
       enable: true
       # Share post on different social media
       shareButtons:
-        facebook: true
-        twitter: true
+        #facebook: true
+        #twitter: true
         linkedin: true
-        reddit: true
+        #reddit: true
         whatsapp: true
         email: true
-        # tumblr: true
-        # pocket: true
-        # diaspora: true
-        # mastodon: true
+        #tumblr: true
+        #pocket: true
+        #diaspora: true
+        #mastodon: true
 
     # Enable & configure "Notes" features
     notes:
