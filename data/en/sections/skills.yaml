@@ -40,8 +40,8 @@ skills:
 #  summary: "Using as the main operating system. Capable of writing bash/shell scripts."
 - name: Unity
   logo: /images/sections/skills/unity.png
-  summary: "Very experienced in Unity Development, my main skill. Created dozens of projects of diffrent type and for diffrent platforms, the most noticable is Phantom Beasts"
-  url: "https://git-scm.com/"
+  summary: "Very experienced in Unity development, my main skill. Created dozens of projects of different types and for different platforms, the most noticeable is Phantom Beasts"
+  url: "https://unity.com/"
   
 - name: C#
   logo: /images/sections/skills/cs.png
@@ -54,4 +54,4 @@ skills:
 
 - name: C++
   logo: /images/sections/skills/c++.png
-  summary: "Know basic C/C++ programming. Learn during my studies and used to build simple unreal project."
+  summary: "Know basic C/C++ programming. Learned during my studies and used to build simple Unreal Engine projects."
