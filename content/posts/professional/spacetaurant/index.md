@@ -7,7 +7,7 @@ menu:
     name: "Spacetaurant"
     identifier: spacetaurant
     parent: professional
-    weight: 30
+    weight: 230
 hero: images/hero.png
 tags: ["Project","Professional", "Power Gamers", "Road2","Tiltan"]
 categories: ["Game"]

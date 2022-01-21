@@ -7,7 +7,7 @@ menu:
     name: "Summoners Royale"
     identifier: summonersroyale
     parent: professional
-    weight: 10
+    weight: 210
 hero: images/hero.png
 tags: ["Project", "Professional", "SuperSky"]
 categories: ["Game"]

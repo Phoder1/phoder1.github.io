@@ -7,7 +7,7 @@ menu:
     name: "Phantom Beasts"
     identifier: phantombeasts
     parent: professional
-    weight: 20
+    weight: 220
 hero: images/hero.png
 tags: ["Project","Professional","Ready Steady Games"]
 categories: ["Game"]
