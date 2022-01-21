@@ -26,6 +26,19 @@ categories: ["Game"]
 
 ---
 
-{{< img src="images/logo.png" width="550" align="center" title="Capsule">}}
+
 
 Upcoming :)
+
+{{< img src="images/capsule.png" width="700" align="center" title="Capsule">}}
+{{< vs >}}
+
+{{< split 6 6 >}}
+{{< video src="/videos/PawsOfFury-Gameplay.mp4" width="25" >}}
+{{< vs >}}
+
+---
+
+{{< video src="/videos/PawsOfFury-Merging.mp4" >}}
+
+{{</split>}}
