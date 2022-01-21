@@ -55,7 +55,7 @@ projects:
   #timeline: "November 2019 - January 2022"
   #repo: https://github.com/kubernetes/kubernetes # If your project is a public repo on GitHub, then provide this link. it will show star count.
   url: "/posts/academic/pawsoffury/"  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
-  summary: Paws Of Fury is a 2.5D Mobile battle arena puzzle game. combines elements from tower defense, collectible card games and merging.
+  summary: Paws Of Fury is a 2.5D mobile battle arena puzzle game. combines elements from tower defense, collectible card games and merging.
 
   tags: ["academic", "tiltan"]
   
@@ -65,7 +65,7 @@ projects:
   #timeline: "November 2019 - January 2022"
   #repo: https://github.com/kubernetes/kubernetes # If your project is a public repo on GitHub, then provide this link. it will show star count.
   url: "/posts/academic/survivethevoid/"  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
-  summary: A 2D isometric sandbox game in a fantastic alien space, inspired by Minecraft SkyBlock mod.
+  summary: A 2D isometric sandbox game in a fantastic alien space, inspired by Minecraft's SkyBlock mod.
   tags: ["academic", "tiltan"]
  
 - name: "Age Of The Guardians"
@@ -83,7 +83,7 @@ projects:
   #timeline: "November 2019 - January 2022"
   #repo: https://github.com/kubernetes/kubernetes # If your project is a public repo on GitHub, then provide this link. it will show star count.
   url: "/posts/academic/co-pirate/"  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
-  summary: Co-Pirate is a multiplayer 2v2 pirates battle game all about sink-or-be-sunk, each team need to shoot cannon balls at the enemy team and fix holes in her own ship before she sinks.
+  summary: Co-Pirate is a multiplayer 2v2 pirates battle game all about sink-or-be-sunk, each team need to shoot cannon balls at the enemy team and fix holes in her own ship before it sinks.
   tags: ["academic", "tiltan"]
  
 - name: "Gameplay Wise"

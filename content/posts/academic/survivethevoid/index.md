@@ -28,4 +28,10 @@ categories: ["Game"]
 
 {{< img src="images/logo.png" width="550" align="center" title="Capsule">}}
 
-Upcoming :)
+{{< vs >}}
+
+---
+
+
+
+{{< youtube vazdBjpFTgs >}}

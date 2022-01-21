@@ -44,7 +44,7 @@ degrees:
 #    url: "#"
   extracurricularActivities: #(optional)
   - I developed a game inside Road2's game acceleration program for 6 month.
-  - I took part as a joint effort together with Code-For-Israel to create an educational game to be used as another tool by teachers to asses the mental state of students around Israel. The game is mainly used in more difficult areas, such as schools in proximity to 'Azza.
+  - I took part as a joint effort together with Code-For-Israel to create an educational game to be used as another tool by teachers to asses the mental state of students around Israel. The game is mainly used in more difficult areas, such as schools in proximity to Gaza.
   
   
 - name: Electronics & Robotics
@@ -57,4 +57,4 @@ degrees:
     #Sachieved: 4.5
     #SoutOf: 5
   extracurricularActivities: #(optional)
-  - I was part of Misgav's FRC robotics competition team, Miscar, which during my 3 years we won every year in the Israeli district and represented Israel in the world competition in the US.
+  - I was part of Misgav's FRC robotics competition team, Miscar, which during my 3 years we won every year in the Israeli district and represented Israel in the world competition in the U.S.

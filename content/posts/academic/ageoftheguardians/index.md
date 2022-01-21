@@ -31,4 +31,3 @@ Feel free to download the game's rule book and character sheet:
 
 - [Rule Book](/files/RuleBook.pdf)
 - [Character Sheet](/files/CharacterSheetEditable.pdf)
-
