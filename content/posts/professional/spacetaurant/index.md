@@ -26,9 +26,11 @@ categories: ["Game"]
 ---
 
 {{< img src="images/spacetaurant.jpg" height="300" align="center" title="Capsule">}}
+{{< vs >}}
 
-Spacetaurant is a mobile, casual idle, sandbox-y game about running a futuristic and cute restaurant on a intergalactic highway.  
-You play as the owner of the restaurant, you need to collect and grow ingredients and make sure all your customers leave your restaurant satisfied and hopefully leave you a good review.  
+Spacetaurant is a mobile, casual idle game combining management and gathering.  
+The game is about running a futuristic and cute restaurant on a intergalactic highway.  
+You play as the owner of the restaurant, who collects and grows ingredients to make sure all your customers leave your restaurant satisfied and hopefully leave you a good review.  
 
 Spacetaurant was part of [R2G](https://www.road2.co.il/the-games-program/) - a game development acceleration program. 
 
@@ -50,8 +52,13 @@ As the solo developer of the game I was in charge of designing and writing all t
 - I created a versatile save system to save the data between each login of the player.
 - I created a inventory, recipes and crafting system.
 - Input system using Unity's new input system, with easy to change profile and aim assist.
-
-{{< img src="images/logo.png" height="300" align="center" title="Capsule">}}
-
 ### Gameplay
+
+{{< vs >}}
+
+{{< img src="images/logo.png" height="300" float="left" title="Capsule">}}
+{{< img src="images/bowl.png" height="300" float="right" title="Capsule">}}
+
+{{< vs >}}
+
 {{< video src="/videos/SpacetaurantTrailer.mp4" >}}
