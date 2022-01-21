@@ -29,6 +29,14 @@ buttons:
 
 # your projects
 projects:
+- name: "Summoners Royale"
+  logo: /images/sections/projects/summonersroyale.png
+  role: Unity Developer
+  timeline: "November 2019 - January 2022"
+  #repo: https://github.com/kubernetes/kubernetes # If your project is a public repo on GitHub, then provide this link. it will show star count.
+  url: "/posts/professional/summonersroyale/"  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
+  summary: Upcoming :)
+  tags: ["professional", "supersky" ]
 - name: "Phantom Beasts: Redemption"
   logo: /images/sections/projects/phantombeasts.png
   role: Unity Developer
@@ -43,7 +51,7 @@ projects:
   #timeline: "November 2019 - January 2022"
   #repo: https://github.com/kubernetes/kubernetes # If your project is a public repo on GitHub, then provide this link. it will show star count.
   url: "/posts/professional/spacetaurant/"  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
-  summary: Phantom Beasts is a side-scrolling action game in 2.5D that mixes the fast-paced combat of the ‘shoot’em up’ genre with the emotion of training powerful creatures in a post-apocalyptic cyberpunk future.
+  summary: Spacetaurant is a mobile, casual idle, sandbox-y game about running a futuristic and cute restaurant on a intergalactic highway.
   tags: ["professional", "powergamers", "tiltan" ]
 #
 #- name: Tensorflow
