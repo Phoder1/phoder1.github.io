@@ -52,9 +52,9 @@ params:
     favicon: /images/site/favicon.png
 
   # GitHub repo of your site
-  gitRepo: https://github.com/Phoder1/phoder1.github.io
+  #gitRepo: https://github.com/Phoder1/phoder1.github.io
   # Default branch of your Git repo
-  gitBranch: main
+  #gitBranch: main
 
   # Configure various features of this theme
   features:
@@ -68,7 +68,7 @@ params:
       shareButtons:
         #facebook: true
         #twitter: true
-        linkedin: true
+        #linkedin: true
         #reddit: true
         whatsapp: true
         email: true
@@ -107,8 +107,8 @@ params:
 
   # If you want to use different country flag for a language, specify them here.
   flagOverwrites:
-  - languageCode: heb
-    countryCode: il
+  #- languageCode: heb
+  #  countryCode: il
 
   # Provide footer configuration.
   footer:
