@@ -1,7 +1,7 @@
 ---
 title: "Spacetaurant"
-date: 2020-06-08T08:06:25+06:00
-description: Sample post with multiple images, embedded video ect.
+date: 2022-01-21T08:06:25+06:00
+description: Spacetaurant is a mobile, casual idle, sandbox-y game about running a futuristic and cute restaurant on a intergalactic highway.
 menu:
   sidebar:
     name: "Spacetaurant"
@@ -21,14 +21,11 @@ categories: ["Game"]
 <a href="https://github.com/Phoder1/Spacetaurant"><img src="/github.svg" width="25" align="center"><a>
 </p>
 
-
 {{< vs >}}
 
 ---
 
-{{< img src="images/logo.png" height="300" align="center" title="Capsule">}}
-### About the game
-{{< img src="images/spacetaurant.jpg" width="550" float="right" title="Capsule">}}
+{{< img src="images/spacetaurant.jpg" height="300" align="center" title="Capsule">}}
 
 Spacetaurant is a mobile, casual idle, sandbox-y game about running a futuristic and cute restaurant on a intergalactic highway.  
 You play as the owner of the restaurant, you need to collect and grow ingredients and make sure all your customers leave your restaurant satisfied and hopefully leave you a good review.  
@@ -53,5 +50,8 @@ As the solo developer of the game I was in charge of designing and writing all t
 - I created a versatile save system to save the data between each login of the player.
 - I created a inventory, recipes and crafting system.
 - Input system using Unity's new input system, with easy to change profile and aim assist.
+
+{{< img src="images/logo.png" height="300" align="center" title="Capsule">}}
+
 ### Gameplay
 {{< video src="/videos/SpacetaurantTrailer.mp4" >}}

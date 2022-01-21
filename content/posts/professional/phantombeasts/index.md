@@ -1,7 +1,7 @@
 ---
 title: "Phantom Beasts: Redemption"
-date: 2020-06-08T08:06:25+06:00
-description: Sample post with multiple images, embedded video ect.
+date: 2022-01-21T08:06:25+06:00
+description: Phantom Beasts is a very story-rich, side-scrolling, action game in 2.5D.
 menu:
   sidebar:
     name: "Phantom Beasts"
@@ -18,21 +18,18 @@ categories: ["Game"]
 <a href="https://store.steampowered.com/app/1483000/Phantom_Beasts__Redemption/"><img src="/steam.svg" width="25" align="center"><a>                                     
 </p>
 
-
 {{< vs >}}
-{{< img src="/posts/professional/phantombeasts/images/bar.png" width="1400" align="center" title="A boat at the sea" >}}
 
 ---
 
+{{< img src="images/banner.png" width="450" align="center" title="Capsule">}}
 
-### About the game
-{{< img src="images/banner.png" width="450" float="right" title="Capsule">}}
 Phantom Beasts is a very story-rich, side-scrolling, action game in 2.5D.  
 It mixes the fast-paced combat of the ‘shoot’em up’ genre with the precise movement of the platformer genre.
 
 In Phantom Beasts you can have multiple weapon as well as multiple abilities given to you by your teammate phantoms, which creates a very varied and interesting gameplay.
 
-{{< vs 15 >}}
+{{< img src="/posts/professional/phantombeasts/images/bar.png" width="1400" align="center" title="A boat at the sea" >}}
 
 ### My part in the project
 
