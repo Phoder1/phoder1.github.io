@@ -53,9 +53,9 @@ socialLinks:
 # You can also show a circular bar indicating the level of expertise on a certain skill
 badges:
 #- type: certification
-#  name: Certified Kubernetes Security Specialist
-#  url: "https://www.credly.com/org/the-linux-foundation/badge/exam-developer-certified-kubernetes-security-specialist"
-#  badge: "https://images.credly.com/size/680x680/images/f4bf92ed-8985-40b2-bc07-2f9308780854/kubernetes-security-specialist-logo-examdev.png"
+#  name: Unity Certified Professional - Programmer
+#  url: "https://www.credly.com/org/unity/badge/unity-certified-professional-programmer"
+#  badge: "https://images.credly.com/size/680x680/images/a725e041-70cc-42e4-bced-1849f9b73ce2/ProProg_Certification-Badges-out-600x600-10.png"
 #
 #- type: certification
 #  name: Istio and IBM Cloud Kubernetes Service
