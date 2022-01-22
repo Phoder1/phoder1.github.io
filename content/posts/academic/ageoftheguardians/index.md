@@ -25,8 +25,6 @@ categories: ["Game"]
 
 ---
 
-{{< img src="images/logo.png" width="550" align="center" title="Capsule">}}
-
 Feel free to download the game's rule book and character sheet:
 
 - [Rule Book](/files/RuleBook.pdf)
