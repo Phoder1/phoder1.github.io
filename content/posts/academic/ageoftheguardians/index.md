@@ -25,7 +25,7 @@ categories: ["Game"]
 
 ---
 
-{{< split 3 5 4 >}}
+{{< split 3 7 >}}
 
 {{< video src="/videos/CardsSlideShow.mp4">}}
 
@@ -36,9 +36,10 @@ Feel free to download the game's rule book and character sheet:
 - [Rule Book](/files/RuleBook.pdf)
 - [Character Sheet](/files/CharacterSheetEditable.pdf)
 
----
+{{< vs 2 >}}
 
-<img src="images/map.png" alt="drawing" width="500"/>
+![Map](images/map.png)
+
 
 {{< /split >}}
 

@@ -25,5 +25,10 @@ categories: ["Game"]
 {{< vs >}}
 
 ---
-
+### About the game
+Co-Pirate is a multiplayer 2v2 pirates battle game all about sink-or-be-sunk, each team need to shoot cannon balls at the enemy team and fix holes in her own ship before it sinks.
+Co-Pirate was the final project in my Multiplayer course, we used Photon Engine to make it.
+### My part in the project
+I was one of 3 developers working on the project, I was mainly in charge of the in-game mechanics and some multiplayer features.
+### Media
 {{< youtube 7nakAb5sxgk >}}
