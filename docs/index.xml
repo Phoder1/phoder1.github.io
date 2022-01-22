@@ -6,7 +6,7 @@
     <description>Recent content on Alon Talmi&#39;s Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 21 Jan 2022 08:06:25 +0600</lastBuildDate><atom:link href="https://phoder1.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 22 Jan 2022 08:06:25 +0600</lastBuildDate><atom:link href="https://phoder1.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Go পরিচিতি</title>
       <link>https://phoder1.github.io/notes/go/basic/introduction/</link>
@@ -403,13 +403,22 @@ Initial setup Search depends on additional output content type of JSON in config
     </item>
     
     <item>
+      <title>Introduction</title>
+      <link>https://phoder1.github.io/posts/introduction/</link>
+      <pubDate>Sat, 22 Jan 2022 08:06:25 +0600</pubDate>
+      
+      <guid>https://phoder1.github.io/posts/introduction/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Age Of The Guardians</title>
       <link>https://phoder1.github.io/posts/academic/ageoftheguardians/</link>
       <pubDate>Fri, 21 Jan 2022 08:06:25 +0600</pubDate>
       
       <guid>https://phoder1.github.io/posts/academic/ageoftheguardians/</guid>
       <description>---   Feel free to download the game&amp;rsquo;s rule book and character sheet:
- Rule Book Character Sheet   About the game Age Of The Guardians is Tabletop RPG game about Aulara, a young, mystical and vibrant world who’s still recovering from the rise and fall of the gods. It&amp;rsquo;s played by 2+ players, every game is an adventure with one player taking the role of the game master, while the rest create and become unique characters.</description>
+ Rule Book Character Sheet    About the game Age Of The Guardians is Tabletop RPG game about Aulara, a young, mystical and vibrant world who’s still recovering from the rise and fall of the gods. It&amp;rsquo;s played by 2+ players, every game is an adventure with one player taking the role of the game master, while the rest create and become unique characters.</description>
     </item>
     
     <item>
@@ -418,7 +427,8 @@ Initial setup Search depends on additional output content type of JSON in config
       <pubDate>Fri, 21 Jan 2022 08:06:25 +0600</pubDate>
       
       <guid>https://phoder1.github.io/posts/academic/co-pirate/</guid>
-      <description>   ---      </description>
+      <description>---    About the game Co-Pirate is a multiplayer 2v2 pirates battle game all about sink-or-be-sunk, each team need to shoot cannon balls at the enemy team and fix holes in her own ship before it sinks. Co-Pirate was the final project in my Multiplayer course, we used Photon Engine to make it.
+My part in the project I was one of 3 developers working on the project, I was mainly in charge of the in-game mechanics and some multiplayer features.</description>
     </item>
     
     <item>
@@ -427,9 +437,9 @@ Initial setup Search depends on additional output content type of JSON in config
       <pubDate>Fri, 21 Jan 2022 08:06:25 +0600</pubDate>
       
       <guid>https://phoder1.github.io/posts/academic/pawsoffury/</guid>
-      <description>   ---    Upcoming :)
-
- </description>
+      <description>---    About the game Paws Of Fury is a 2.5D mobile battle arena game, Where real-time strategy meets puzzle. The game combines elements from tower defense, collectible card games and merging.
+Paws Of Fury was made as my Production course project in my 2nd year.
+My part in the project I was the solo developer of the game, and I built and designed all of the systems of the game.</description>
     </item>
     
     <item>
@@ -466,16 +476,6 @@ Spacetaurant was part of R2G - a game development acceleration program.</descrip
       <description>---      About the game Survive The Void is a 2D, randomly generated, isometric sandbox game in a fantastic alien space, inspired by Minecraft&amp;rsquo;s SkyBlock mod.
 Survive The Void was the Unity project in Advanced Unity course I did in my 2nd year of my game development bachelor degree.
 My part in the project Survive The Void was a team of 5 developers, which I was both lead developer and producer.</description>
-    </item>
-    
-    <item>
-      <title>Introduction</title>
-      <link>https://phoder1.github.io/posts/introduction/</link>
-      <pubDate>Mon, 08 Jun 2020 08:06:25 +0600</pubDate>
-      
-      <guid>https://phoder1.github.io/posts/introduction/</guid>
-      <description>Greeting! This is an introduction post. This post tests the followings:
- Hero image is in the same directory as the post. This post should be at top of the sidebar. Post author should be the same as specified in author.yaml file.  </description>
     </item>
     
     <item>

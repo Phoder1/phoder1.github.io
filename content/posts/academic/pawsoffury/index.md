@@ -28,17 +28,26 @@ categories: ["Game"]
 
 ### About the game  
 {{< img src="images/logo.png" height="100" float="right" title="Logo">}}
-Paws Of Fury is a 2.5D mobile battle arena puzzle game. combines elements from tower defense, collectible card games and merging.
+Paws Of Fury is a 2.5D mobile battle arena game, Where real-time strategy meets puzzle.
+The game combines elements from tower defense, collectible card games and merging.
+
+Paws Of Fury was made as my Production course project in my 2nd year.
 
 ### My part in the project
-Survive The Void was a team of 5 developers, which I was both lead developer and producer.
-As the lead I had to divide the work, monitor the design process and implementation, but I also built most of the main systems of the game.
+I was the solo developer of the game, and I built and designed all of the systems of the game.
 
 ### Highglights
-In Survive The Void I designed and built multiple systems with emphasis on object oriented:
-- I built the world system, which was a optimized chunk based, infinite, randomly generated, dynamically loaded and serializable map system.
-- Locomotion system with a custom collision system.
-- Serializable and optimized time based event system to support huge amount of world time events.
+Paws Of Fury development was focused on creating a game which feels complete, so many meta mechanics had to be created:
+- Optimized and flexible save system.
+- Player game progress with level, cards, coins and "goo".
+- Card merging and rewards.
+- Detailed card data with flexible UI.
+
+Paws Of Fury wasn't lacking of in-game systems like:
+- State-Machine based AI system.
+- Flexible stats system to support multiple buffs and debuffs (like slow, attack speed, armor and many more), damage over time, heal, etc'.
+- Advanced targeting system that's supports "ghost" and tank (taunt) characters, player targeting and different prioritizing rules per character like lowest-health-first, closest-first and many more.
+- Tile based editor tool to easily create levels.
 
 ### Media
 {{< img src="images/capsule.png" width="700" align="center" title="Capsule">}}
