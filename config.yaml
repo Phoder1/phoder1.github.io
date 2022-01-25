@@ -4,6 +4,7 @@ publishDir: "docs"
 languageCode: en-us
 title: "Alon Talmi's Portfolio"
 theme: "toha"
+googleAnalytics: G-MWNT2323T3
 
 # Manage languages
 # For any more details, you can check the official documentation: https://gohugo.io/content-management/multilingual/
