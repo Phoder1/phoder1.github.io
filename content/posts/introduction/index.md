@@ -7,4 +7,5 @@ menu:
     name: Introduction
     identifier: introduction
     weight: 10
+hero: images/hero.png
 ---
