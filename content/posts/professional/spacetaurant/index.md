@@ -38,7 +38,7 @@ R2G was created by a collaboration between:
 [Road2](https://www.road2.co.il/), a startup greenhouse funded by the Israel Innovation Authority.  
 and [Tiltan](https://www.tiltan.co.il/), the college I study Game Development in.
 
-Spacetaurant development had to be cut short because I wanted to focus on Phantom Beasts's development more and my producer got and investment in the the other indie game he was working on and had to start working there full time.
+Spacetaurant development had to be cut short because I wanted to focus on Phantom Beasts's development.
 
 {{< vs >}}
 
