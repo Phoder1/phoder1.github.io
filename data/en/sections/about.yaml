@@ -67,22 +67,22 @@ badges:
 #  url: "https://www.credly.com/org/grupo-bancolombia/badge/artificial-intelligence-and-machine-learning"
 #  badge: "https://images.credly.com/size/680x680/images/e027514f-9d07-4b29-862f-fe21a8aaebf1/ae.png"
 #
-- type: soft-skill-indicator
-  name: Unity
-  percentage: 95
-  color: black
+#- type: soft-skill-indicator
+#  name: Unity
+#  percentage: 95
+#  color: black
 #
-- type: soft-skill-indicator
-  name: C#
-  percentage: 90
-  color: "#820de8"
+#- type: soft-skill-indicator
+#  name: C#
+#  percentage: 95
+#  color: "#820de8"
 #
-- type: soft-skill-indicator
-  name: Git
-  percentage: 65
-  color: orange
+#- type: soft-skill-indicator
+#  name: Git
+#  percentage: 65
+#  color: orange
 
-- type: soft-skill-indicator
-  name: C++
-  percentage: 45
-  color: "#00adb5"
+#- type: soft-skill-indicator
+#  name: C++
+#  percentage: 45
+#  color: "#00adb5"
