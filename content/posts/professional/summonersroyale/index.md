@@ -18,7 +18,7 @@ categories: ["Game"]
 <a href="https://store.steampowered.com/app/1483000/Phantom_Beasts__Redemption/"><img src="/steam.svg" width="25" align="center"><a>
 <a href="https://github.com/Phoder1/Spacetaurant"><img src="/github.svg" width="25" align="center"><a>
 --->
-<a href="https://supersky.games/"><img src="/external-link.svg" width="25" align="center"><a>
+<a href="https://summonersuniverse.com/"><img src="/external-link.svg" width="25" align="center"><a>
 </p>
 
 
