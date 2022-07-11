@@ -6,8 +6,7 @@
     <description>Recent content in Professional on Alon Talmi&#39;s Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 21 Jan 2022 08:06:25 +0600</lastBuildDate><atom:link href="https://phoder1.github.io/posts/professional/index.xml" rel="self" type="application/rss+xml" />
-    <item>
+    <lastBuildDate>Fri, 21 Jan 2022 08:06:25 +0600</lastBuildDate><atom:link href="https://phoder1.github.io/posts/professional/index.xml" rel="self" type="application/rss+xml" /><item>
       <title>Phantom Beasts: Redemption</title>
       <link>https://phoder1.github.io/posts/professional/phantombeasts/</link>
       <pubDate>Fri, 21 Jan 2022 08:06:25 +0600</pubDate>
@@ -40,6 +39,7 @@ Spacetaurant was part of R2G - a game development acceleration program.</descrip
       <guid>https://phoder1.github.io/posts/professional/summonersroyale/</guid>
       <description>---  Upcoming :)</description>
     </item>
+    
     
   </channel>
 </rss>
