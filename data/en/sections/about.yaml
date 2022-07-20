@@ -12,14 +12,19 @@ designation: Unity Developer
 # your company information
 company:
   name: SuperSky Games
-  #icon: "images/sections/about/supersky.jpg"
+  icon: "images/supersky.png"
   url: "https://summonersuniverse.com/"
 
 # your resume. this file path should be relative to you "static" directory
 resume: "files/Resume-Alon-Talmi.pdf"
 
 # a summary about you
-summary: 'A Unity Developer, eager to learn, passionate about games and keen to help bring new creations to the world.  [Introduction](posts/introduction/)'
+
+#With link to introduction
+#summary: 'A Unity Developer, eager to learn, passionate about games and keen to help bring new creations to the world.  [Introduction](posts/introduction/)'
+
+#Without link to introduction
+summary: 'A Unity Developer, eager to learn and master the art of game creation'
 
 # your social links
 # give as many as you want. use font-awesome for the icons.

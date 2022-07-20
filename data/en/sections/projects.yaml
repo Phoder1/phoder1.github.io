@@ -25,10 +25,10 @@ projects:
 - name: "Summoners Royale"
   logo: /images/sections/projects/summonersroyale.png
   role: Unity Developer
-  timeline: "November 2019 - January 2022"
+  timeline: "January 2022 - Current"
   #repo: https://github.com/kubernetes/kubernetes # If your project is a public repo on GitHub, then provide this link. it will show star count.
-  url: "/posts/professional/summonersroyale/"  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
-  summary: Upcoming :)
+  url: "https://summonersuniverse.com/"  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
+  summary: Real time PvP strategy game, empowered by Blockchain technology to enable every player to be an Esports winner. Form a clan, battle with others and earn token rewards with just your skills.
   tags: ["professional", "supersky" ]
   
 - name: "Phantom Beasts: Redemption"
@@ -42,23 +42,48 @@ projects:
   
 - name: "Spacetaurant"
   logo: /images/sections/projects/spacetaurant.png
-  role: Solo Developer
+  role: Solo Unity Developer
   #timeline: "November 2019 - January 2022"
   #repo: https://github.com/kubernetes/kubernetes # If your project is a public repo on GitHub, then provide this link. it will show star count.
   url: "/posts/professional/spacetaurant/"  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
   summary: Spacetaurant is a mobile, casual idle, sandbox-y game about running a futuristic and cute restaurant on a intergalactic highway.
   tags: ["professional", "powergamers", "tiltan"]
 
+- name: "Odium"
+  logo: /images/sections/projects/odium.png
+  role: Unity Developer
+  #timeline: "November 2019 - January 2022"
+  #repo: https://github.com/kubernetes/kubernetes # If your project is a public repo on GitHub, then provide this link. it will show star count.
+  url: "https://store.steampowered.com/app/2090040/Odium/"  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
+  summary: Odium is a fast paced Action Roguelike where you follow Chris's life as a bullied child, in a subtle and parodic interpretation of his subconscious release of anger and frustration from his life inside his dreams.
+  tags: ["academic", "tiltan"]
+  
 - name: "Paws Of Fury"
   logo: /images/sections/projects/pawsoffury.png
-  role: Solo Developer
+  role: Solo Unity Developer
   #timeline: "November 2019 - January 2022"
   #repo: https://github.com/kubernetes/kubernetes # If your project is a public repo on GitHub, then provide this link. it will show star count.
   url: "/posts/academic/pawsoffury/"  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
   summary: Paws Of Fury is a 2.5D mobile battle arena puzzle game. combines elements from tower defense, collectible card games and merging.
-
   tags: ["academic", "tiltan"]
   
+- name: "UniKit"
+  logo: images/github.svg
+  role: Creator
+  #timeline: "November 2019 - January 2022"
+  repo: https://github.com/Phoder1/UniKit # If your project is a public repo on GitHub, then provide this link. it will show star count.
+  #url: "https://store.steampowered.com/curator/38999910/"  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
+  summary: Collection of C# and Unity utillities packed as a unity package.
+  tags: ["hobby"]
+  
+- name: "SpaceEmpires"
+  logo: images/github.svg
+  role: Solo Unity Developer
+  #timeline: "November 2019 - January 2022"
+  repo: https://github.com/Phoder1/SpaceEmpires # If your project is a public repo on GitHub, then provide this link. it will show star count.
+  #url: "https://store.steampowered.com/curator/38999910/"  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
+  summary: Simple AI POC project aimed to create a score based AI system instead of condition based one.
+  tags: ["academic", "tiltan"]
 - name: "Survive The Void"
   logo: /images/sections/projects/survivethevoid.png
   role: Producer and Lead Developer
@@ -79,7 +104,7 @@ projects:
   
 - name: "Co-Pirate"
   logo: /images/sections/projects/co-pirate.png
-  role: Producer
+  role: Unity Developer
   #timeline: "November 2019 - January 2022"
   #repo: https://github.com/kubernetes/kubernetes # If your project is a public repo on GitHub, then provide this link. it will show star count.
   url: "/posts/academic/co-pirate/"  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
