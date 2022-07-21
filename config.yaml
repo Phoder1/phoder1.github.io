@@ -25,7 +25,7 @@ markup:
     startLevel: 2
     endLevel: 6
     ordered: false
-
+    
 # At least HTML and JSON are required for the main HTML content and
 # client-side JavaScript search
 outputs:
@@ -48,7 +48,11 @@ params:
     main: /images/site/main-logo.png
     inverted: /images/site/inverted-logo.png
     favicon: /images/site/favicon.png
-
+    
+  darkMode:
+    enable: true
+    provider: darkreader
+    default: system
   # GitHub repo of your site
   #gitRepo: https://github.com/Phoder1/phoder1.github.io
   # Default branch of your Git repo
@@ -107,7 +111,7 @@ params:
   flagOverwrites:
   #- languageCode: heb
   #  countryCode: il
-
+  
   # Provide footer configuration.
   footer:
     enable: true
