@@ -35,7 +35,7 @@ outputs:
     - JSON
 
 # Enable global emoji support
-enableEmoji: false
+enableEmoji: true
 
 # Site parameters
 params:
@@ -49,17 +49,31 @@ params:
     inverted: /images/site/inverted-logo.png
     favicon: /images/site/favicon.png
     
-  darkMode:
-    enable: true
-    provider: darkreader
-    default: system
   # GitHub repo of your site
-  #gitRepo: https://github.com/Phoder1/phoder1.github.io
+  gitRepo: https://github.com/Phoder1/phoder1.github.io
   # Default branch of your Git repo
-  #gitBranch: main
+  gitBranch: main
+  
+  # Configure the number of section title visible in the top navbar
+  topNavbar:
+    maxVisibleSections: 5
 
   # Configure various features of this theme
   features:
+
+    # Enable dark theme
+    darkMode:
+      enable: true
+      services:
+        darkreader:
+          defaultColorScheme: dark # options are 'system', 'dark', 'light'
+          fixes:
+            invert: ['img[src$=".svg"]'] # inverts svg colors.
+          theme:
+            brightness: 80
+            contrast: 110
+            sepia: 0
+            
     # Enable and configure portfolio
     portfolio:
       enable: true
