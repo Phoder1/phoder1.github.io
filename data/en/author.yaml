@@ -1,6 +1,6 @@
 # some information about you
 name: "Alon Talmi"
-nickname: "Alon Talmi"
+nickname: "Alon"
 # greeting message before your name. it will default to "Hi! I am" if not provided
 greeting: ""
 image: "images/author/alontalmi.png"
@@ -16,7 +16,7 @@ summary:
   - Developer
   - Gamer
   - Geek
-  - Unity fan
+  #- Unity fan
   #- I am a Devops
   #- I love servers
   #- I work on open-source projects
